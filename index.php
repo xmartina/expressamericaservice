@@ -23,7 +23,7 @@ if (array_key_exists($path, $routes)) {
     // Include the corresponding controller or perform the action.
     switch ($action) {
         case 'home':
-            require_once (WEB_URL.'/home.php');
+            require_once WEB_URL.('/home.php');
             break;
         case 'about':
             echo 'About us';
