@@ -6,3 +6,4 @@ $requestURI = $_SERVER['REQUEST_URI'];
 if ($requestURI == "") {
   echo require_once (WEB_URL.'/home.php');
 }
+echo "this";
