@@ -961,7 +961,7 @@ June 29, 2021                        </span><span class="post_author"><span>By <
     </div>
 </main>
 
-<?php require_once ('')
+<?php require_once ('') ?>
 
 </html><!-- WP Fastest Cache file was created in 2.3373718261719 seconds, on 30-08-23 13:41:11 -->
 
