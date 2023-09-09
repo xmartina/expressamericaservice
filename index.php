@@ -7,5 +7,7 @@ if ($requestURI == "/") {
   echo require_once (WEB_URL.'/home.php');
 } elseif ($requestURI == "") {
     echo require_once (WEB_URL.'/home.php');
+} else {
+    echo '404';
 }
 //echo $requestURI;
