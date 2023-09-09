@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<?php require_once WEB_URL.('/header.php'); ?>
+<?php require_once ('header.php'); ?>
 <main id="main" class="site-main"><div class="wgl-container"><div class="row  sidebar_none"><div id="main-content" class="wgl_col-12">		<div data-elementor-type="wp-page" data-elementor-id="394" class="elementor elementor-394">
                     <section class="elementor-section elementor-top-section elementor-element elementor-element-3870777 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3870777" data-element_type="section">
                         <div class="elementor-container elementor-column-gap-default">
