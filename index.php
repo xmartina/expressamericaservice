@@ -4,5 +4,5 @@ $requestURI = $_SERVER['REQUEST_URI'];
 
 //router
 if ($requestURI == "") {
-    require_once (WEB_URL.'/home.php');
+  echo require_once (WEB_URL.'/home.php');
 }
